@@ -9,6 +9,7 @@ The $Dynamic \ Planning$ is too difficult  $QAQ$
 This is a anime lover, so I'm also learning Japanese, but I too lazy to memorize the words and the grammar.~~Therefore I learnt nothing so far~~ $(。•́︿•̀。)$
 
 Therefore, **kaibai** is right
+
 $$
 \color{#39c5bb}
 \begin{matrix}
