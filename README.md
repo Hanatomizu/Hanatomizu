@@ -1,20 +1,22 @@
-### Hello!
+**Hello there, this is Hanatomizu. Nice to meet you! $꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱ $ **
 
-This is __**モモサワホシゾラ**__, you can also call me __**Hanatomizu**__  
-Now, I'm learning C++ and Python, hope you can like my programs.  
+I'm currently learning $C/C++$ myself and preparing for the contest. Maybe I would develop a mini program later, I'm not sure. $(ᕑᗢᓫ∗)˒$
 
----
-
-#### About me
-I am a normal student in the world, just love coding.  
-I usually do the problems on [Leetcode](leetcode.com) [Luogu](luogu.com.cn) and [codeforces](codeforces.com).  
-I'm the computer manager of our class (and also the subject representative of the English language).
-Well, it looks so boring, but I will make it better in the future.
+The $Dynamic \ Planning$ is too difficult  $QAQ$
 
 ---
 
-#### My Organization
+This is a anime lover, so I'm also learning Japanese, but I too lazy to memorize the words and the grammar.~~Therefore I learnt nothing so far~~ $(。•́︿•̀。)$
 
-It's even not an organization, it is named **__Project DreamTeam__**.
-There are only 2 members in the organization (me and my classmate who is interested in coding).
+Therefore, **kaibai** is right
+$$
+\color{#39c5bb}
+\begin{matrix}
+\large{大きな箱より} &
+\\
+& \large{小さな箱に幸せあるらしい}
+\end{matrix}
+$$
+
+---
 
